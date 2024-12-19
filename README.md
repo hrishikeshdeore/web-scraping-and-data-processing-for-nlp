@@ -1,7 +1,13 @@
-# web-scraping-and-data-processing-for-nlp
-
-## Objective
-#### The objective of this assignment is to extract cleaned textual data articles from the given URL and perform text analysis to compute specific linguistic and sentiment-based variable like POSITIVE SCORE,NEGATIVE SCORE,POLARITY SCORE,SUBJECTIVITY SCORE,AVG SENTENCE LENGTH,PERCENTAGE OF COMPLEX WORDS,FOG INDEX,AVG NUMBER OF WORDS PER SENTENCE,COMPLEX WORD COUNT,WORD COUNT,SYLLABLE PER WORD,PERSONAL PRONOUNS,AVG WORD LENGTH using textual analysis and nlp tools.
+# Objective
+#### The objective of this assignment is to extract cleaned textual data articles from the given URL and perform text analysis to compute specific linguistic and sentiment-based variable like 
+POLARITY SCORE,
+SUBJECTIVITY SCORE,
+FOG INDEX,
+COMPLEX WORD COUNT,
+SYLLABLE PER WORD,
+PERSONAL PRONOUNS,
+AVG WORD LENGTH
+using textual analysis and nlp tools.
 
 #### While extracting text, we make sure that program extracts only the article title and the article text and it should not extract the website header, footer, or anything other than the article text
 
